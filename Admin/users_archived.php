@@ -24,7 +24,7 @@ require_once 'sidebar.php';
         <div class="col-12">
           <div class="card">
             <div class="card-header">
-              <h5 class="text-center">Archived Student records</h5>
+              <h5 class="text-center d-none">Archived Student records</h5>
             </div>
             <div class="card-body">
               <table id="example1" class="table table-bordered table-hover text-sm">
